@@ -4,3 +4,5 @@ python Michigan spec
 * primer curso xx
 * segundo curso python structures
 * tercer curso python web
+* xx
+* xx
